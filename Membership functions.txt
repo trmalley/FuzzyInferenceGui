@@ -1,0 +1,44 @@
+Humidity
+Range 0 100
+
+3 triangular 
+
+poor -45 0 45
+medium 20 50 80
+excellent 55 100 145
+
+Total Cloud
+
+Range 0 8
+2 trangular
+1 trap
+
+poor -3 0 3
+medium 1.5 4 6.5
+excellent 4 6 8 10(trap)
+
+Wind Direction Degrees
+Range 0 360
+3 trap
+ 
+Medium -125 -50 50 125
+Poor 50 150 200 300
+Excellent 200 300 400 500
+
+Pressure
+Range 995 1030
+
+3 triangular
+
+Poor 980 995 1010 
+Medium 1007.5 1015 1022.5 
+Excellent 1020 1030 1040
+
+
+Temperature
+Range -5 40
+
+Excellent -10 5 20
+Medium 0 15 25
+Poor 17.5 40 62.5
+
